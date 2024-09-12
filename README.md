@@ -48,18 +48,14 @@ I'm **t3ch**, a Hacker & Security Researcher. <br>
 
 <br><br>
 
-<!-- 
+
 
 <h2 id="donate" align=''>Donate ⚡️ Support</h2>
 
 <details>
-<summary>Buy Me A Coffee</summary>
-
-<p align="center"><img src="https://github.com/user-attachments/assets/b4b5c22b-2402-4c52-8a62-a298c24347dc" width="80%" height="auto"/></p>
-
-<p align="center"><a href="https://buymeacoffee.com/chieft3ch"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
-
-</details> -->
+<summary>Support my research</summary>
+BTC Address: bc1qqr4t8y0l0tel8uk0e0pjgd3sqmufyhgal937tz
+</details>
 
 
 
