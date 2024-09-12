@@ -38,9 +38,13 @@ I'm **t3ch**, a Hacker & Security Researcher. <br>
 ---
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=chieft3ch&theme=vision-friendly-dark)](https://github.com/chieft3ch/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=chieft3ch&theme=dark&card_width=450)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/chieft3ch/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chieft3ch&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
+
+
+[![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=chieft3ch&theme=vision-friendly-dark)](https://github.com/chieft3ch/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=chieft3ch&theme=dark&card_width=450)](https://git.io/streak-stats)
+
+<p  align="left"><a  href="https://github.com/chieft3ch/github-readme-stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chieft3ch&layout=compact&theme=vision-friendly-dark"  width="450""  /></a></p>
 
 <br><br>
 
