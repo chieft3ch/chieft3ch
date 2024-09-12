@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+journey+to+become+a+great+Hacker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F700&width=435&lines=On+a+journey+to+becoming+a+great+hacker" alt="Typing SVG" />
   </a>
 </div>
 <!--
@@ -37,11 +37,7 @@ I'm **t3ch**, a Hacker & Security Researcher. <br>
 
 ---
 
-
-
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
- 
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=chieft3ch&theme=vision-friendly-dark)](https://github.com/chieft3ch/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=chieft3ch&theme=dark&card_width=450)](https://git.io/streak-stats) 
  <p align="left"><a href="https://github.com/chieft3ch/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chieft3ch&layout=compact&theme=vision-friendly-dark" width="450"" /></a></p>
