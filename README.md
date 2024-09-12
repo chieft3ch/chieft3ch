@@ -48,7 +48,7 @@ I'm **t3ch**, a Hacker & Security Researcher. <br>
 
 <br><br>
 
-
+<!-- 
 
 <h2 id="donate" align=''>Donate ⚡️ Support</h2>
 
@@ -59,7 +59,7 @@ I'm **t3ch**, a Hacker & Security Researcher. <br>
 
 <p align="center"><a href="https://buymeacoffee.com/chieft3ch"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
 
-</details>
+</details> -->
 
 
 
